@@ -1,0 +1,176 @@
+Header file has been included.
+
+ A single line comment
+
+Integer variable
+The variable is i
+ASSIGNATION: 
+The variable is 4
+
+Integer variable
+The variable is j
+ASSIGNATION: 
+The variable is 4
+
+Integer variable
+The variable is sum
+The variable is simple
+ASSIGNATION: 
+The variable is 8
+
+ASSIGNATION: 
+The variable is 22
+
+ sum has value 8
+ simple has value 22
+Float variable
+The variable is f
+This function reads the variable f
+
+ASSIGNATION: 
+The variable is 0.900000
+
+Character variable
+The variable is c
+Double variable
+The variable is d
+ A single line comment
+
+ A single line comment
+
+
+WHILE LOOP from 6 to 1 :
+6 5 4 3 2 1 
+ A single line comment
+
+Integer variable
+The variable is z
+ASSIGNATION: 
+The variable is 10
+
+ z has value 10
+INCREMENTING FOR LOOP: 
+for 1 to 5: 
+1 2 3 4 5 
+DECREMENTING FOR LOOP: 
+for 5 to 1: 
+5 4 3 2 1 
+ A single line comment
+
+ i has value 4
+ i has value 4
+ELSE IF CONDITION:
+FALSE
+ j has value 4
+ELSE CONDITION:
+IF CONDITION:
+FALSE
+ A single line comment
+
+ A single line comment
+
+Random value = 3013 
+ A single line comment
+
+Factorial of 5 is 120
+ A single line comment
+
+Maximum value is 8
+ A single line comment
+
+Minimum value is 4
+ A single line comment
+
+The number 35 is not prime
+
+The number 37 is prime
+
+ A single line comment
+
+Power value is 8 
+ A single line comment
+
+Float variable
+The variable is s
+tan(10.000000)= 0.176327
+
+ASSIGNATION: 
+The variable is 0.176327
+
+cos(10.000000)= 0.984808
+
+ASSIGNATION: 
+The variable is 0.984808
+
+sin(10.000000)= 0.173649
+
+ASSIGNATION: 
+The variable is 0.173649
+
+log10(10.000000)= 1.000000
+
+ASSIGNATION: 
+The variable is 1.000000
+
+ backsin(0.500000)= 30.000000 degree
+
+ASSIGNATION: 
+The variable is 30.000000
+
+ backtan(1.000000)= 45.000000 degree
+
+ASSIGNATION: 
+The variable is 45.000000
+
+ backcos(0.500000)= 60.000000 degree
+
+ASSIGNATION: 
+The variable is 60.000000
+
+ A single line comment
+
+Pombination result= 10
+
+ A single line comment
+
+Permutation result= 60
+
+ A single line comment
+
+Swapped Numbers= (75,57)
+
+Elements of array sorted in ascending order: 
+1 2 3 5 6 
+ A multi line comment
+
+Integer variable
+The variable is a
+The variable is b
+The variable is k
+The variable is l
+ASSIGNATION: 
+The variable is 20
+
+ASSIGNATION: 
+The variable is 10
+
+ASSIGNATION: 
+The variable is 2
+
+ASSIGNATION: 
+The variable is 2
+
+ a has value 20
+ b has value 10
+Case no: 0
+
+Case no: 0
+
+ k has value 2
+Default executed
+
+Switch Case demo.
+
+Integer variable
+The variable is g
+Program detected correctly
