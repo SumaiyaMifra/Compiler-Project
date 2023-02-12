@@ -1,0 +1,121 @@
+putin stdio.h
+
+
+start()
+(
+    ##type section
+    int i;
+    i = 4;
+    int j;
+    j = 4;
+
+    int sum,simple;
+    sum= i add j ;
+    simple = 4 add 6 mul 3;
+    show(sum);
+    show(simple);
+
+    float f;
+    take (f);
+    f= 0.9;
+
+    char c;
+    double d;
+
+    ##loop section
+
+    ##while
+    continue (6);
+
+    ##for
+    repeat {1 , 5} + 1
+    (
+        int z;
+        z = 10;
+        show(z);
+    )
+    repeat {5 , 1} - 1
+    ()
+
+    ##if else if else
+    check (i > j)
+    (
+        show(i);
+    )
+    checkagain ( i < j)
+    (
+        show(i);
+    )
+    otherwise
+    (
+        show(j);
+    )
+
+
+    ##SOME FUNTIONS:
+    ##random number taking
+    rand(32668, 2);
+    
+    ##factorial
+    factorial(5);
+
+    ##maximum
+    maxdetect(i, sum);
+
+    ##Minimum
+    mindetect(i,sum);
+
+    ##prime 
+    prime(35);
+    prime(37);
+
+    ##power
+    power(2,3);
+
+    ##some trigonometric operation
+    float s;
+    s=tan(10);
+    s=cos(10);
+    s=sin(10);
+    s=log10(10);
+    s= backs(0.5);
+    s= backt(1.0);
+    s=backc(0.5);
+
+    ##combination function
+    combination(5,3);
+    
+    ##permutation function
+    permutation(5,3);
+
+    ##swap function
+   alternate(57,75);
+
+   sort(2,5,6,3,1);
+
+    #@switchcase@#
+    int a,b,k,l;
+    a = 20;
+    b = 10;
+    k = 2;
+    l = 2;
+    step(l){
+        stair 1 {
+            show(a);
+        }
+        stair 2 {
+            show(b);
+        }
+        base {
+            show(k);
+        }
+    }
+
+    
+
+    int g;
+    
+    
+
+
+)
